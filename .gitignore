@@ -183,3 +183,8 @@ sphinx_*/
 
 # Rust analyzer configuration
 /rust-project.json
+
+# Kernel build artifacts and backups
+Microsoft/config-wsl.old
+modules.vhdx
+modules/
